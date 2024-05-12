@@ -5,9 +5,9 @@ i like to code shit that i abandon 2 weeks later
 
 My current projects:
 
-Alax
-
-Smartie
+ElioTweaks - https://dsc.gg/elio
+RedRake - Private
+ES - Private
 
 
 <img align="right" alt="Thanks" width="1000" src="https://media4.giphy.com/media/BoTSeIlUDcA3JWeWFQ/giphy.gif">
