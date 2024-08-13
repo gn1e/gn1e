@@ -1,1 +1,1 @@
-hi im nade, you may know me for my work at exotic (500+ https://discord.gg/tMXDZBX5Ms) or you might know me for my work at fera (1k+ https://discord.gg/feramp) either way, im just a small dev, and no, i will not work at your project skid.
+nad
