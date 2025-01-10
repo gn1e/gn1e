@@ -1,3 +1,3 @@
-.gg/junglefn ❤️ 
+Hello! I am nade, a beginner developer from Lithuania!
 
-check out [ice backend](https://github.com/gn1e/Ice)
+![banner](https://raw.githubusercontent.com/gn1e/Ice/refs/heads/main/public/contributions.png)
