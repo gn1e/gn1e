@@ -4,7 +4,8 @@ Backend Developer & Reverse Engineer
 C++ / TypeScript developer focused on game infrastructure, backend systems, and reverse engineering.
 
 # 🚀 Featured Projects
-🔹 **VYNXZY**
+🔹 VYNXZY
+
 Backend developer at VYNXZY. (discord.gg/vynxzy || 14k+)
 
 # 📫 Contact
