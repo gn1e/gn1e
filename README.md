@@ -6,7 +6,7 @@ C++ / TypeScript developer focused on game infrastructure, backend systems, and 
 # 🚀 Featured Projects
 🔹 **VYNXZY**
 
-Backend developer at VYNXZY. (discord.gg/vynxzy || 14k+)
+  Backend developer at VYNXZY. (discord.gg/vynxzy || 14k+)
 
 # 📫 Contact
 * Discord: **gn1e**
