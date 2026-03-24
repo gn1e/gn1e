@@ -9,3 +9,4 @@ Backend developer at VYNXZY. (discord.gg/vynxzy || 14k+)
 
 # 📫 Contact
 * Discord: **gn1e**
+  
