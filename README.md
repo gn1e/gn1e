@@ -1,11 +1,2 @@
-# 👋 Hi, I'm nade
-Backend Developer & Reverse Engineer
-
-C++ / TypeScript developer focused on game infrastructure, backend systems, and reverse engineering.
-
-# 🚀 Featured Projects
-* 🔹 **VYNXZY**
-* Software engineer at VYNXZY. (discord.gg/vynxzy || 14k+)
-
-# 📫 Contact
-* Discord: **gn1e**
+I know C++ and TypeScript.
+If you wish to content me please add me on Discord: "gn1e"! ._.
